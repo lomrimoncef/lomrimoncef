@@ -31,8 +31,8 @@
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=jquery"/>](https://jquery.com)
     [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=php"/>](https://php.com)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=laravel"/>](https://laravel.com)
-    [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vue"/>](https://vue.com)
-        [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=py"/>](https://vue.com)
+    [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vue"/>](https://vuejs.org/)
+        [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=py"/>](https://www.python.org/)
 
 
 #### Studying in this moment:
