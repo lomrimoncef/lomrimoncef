@@ -39,7 +39,7 @@
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=aws"/>](https://aws.amazon.com/?nc2=h_lg)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/)
    [<img height="48px" width="48px" alt="Icone VS-Code" src="icons/Ableton-Dark.png"/>](https://www.spark.apache.org/)
-   [<img height="48px" width="48px" alt="Icone VS-Code" src="icons/hadoop.png.png"/>](https://www.spark.apache.org/)
+   [<img height="48px" width="48px" alt="Icone VS-Code" src="icons/hadoop.png"/>](https://www.hadoop.apache.org/)
 
 
   
