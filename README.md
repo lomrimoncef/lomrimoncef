@@ -17,7 +17,7 @@
 
 </h3>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+
 
 
 ## Language and Tools
@@ -45,6 +45,8 @@
 
 
 
+<br/>
+<br/>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
