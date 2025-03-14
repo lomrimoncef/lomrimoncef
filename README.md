@@ -13,7 +13,7 @@
 
 
 
-<h3 align="center">I'm a full-stack web developer with a passion for software architecture and programming best practices. Over the last 8 years, I've developed and maintained complex web apps using Laravel and Vue, always striving to write clean, efficient code. I also enjoy discussing and writing about coding practices. Currently, I'm studying data science to expand my skill set and apply data-driven insights to my projects. I'm excited to bring my experience and passion for technology to a digital team, improving patient communication and workflows.
+<h3 align="center">I'm a full-stack web developer with a passion for software architecture and programming best practices. Over the last 8 years, I've developed and maintained complex web apps using Laravel and Vue, always striving to write clean, efficient code. I also enjoy discussing and writing about coding practices. Currently, I'm studying data science to expand my skill set and apply data-driven insights to my projects. 
 </h3>
 
 
