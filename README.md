@@ -56,7 +56,7 @@
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="#">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-	   		<a style="margin-left: 5px;" target="_blank" href="mailto:mouncif@umich.edu">
+	   		<a style="margin-left: 5px;" target="_blank" href="mailto:team922i@gmail.com">
 					<img src="https://img.icons8.com/?size=45&id=ho8QlOYvMuG3&format=png&color=000000" ></a>
       </div>
 
