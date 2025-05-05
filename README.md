@@ -1,4 +1,4 @@
-<h1>Lomri Moncef <br/><a href="https://github.com/joshmadakor1">Web developper</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Computer science engineer</a></h1>
+<h1>Lomri Moncef <br/><a href="https://github.com/">Web developper</a>, <a href="https://www.linkedin.com/in/">Computer science engineer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -6,10 +6,10 @@
 
 
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[twitter]: https://twitter.com/
+[youtube]: https://www.youtube.com/
+[instagram]: https://www.instagram.com/
+[linkedin]: https://linkedin.com/in/
 
 
 
