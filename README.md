@@ -1,4 +1,4 @@
-<h1>Lomri Moncef <br/><a href="https://github.com/">Web developper</a>, <a href="https://www.linkedin.com/in/">Computer science engineer</a></h1>
+<h1>Lomri Moncef <br/><a href="https://github.com/">Web developper</a>, <a href="https://www.linkedin.com/in/">Data scientist</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
