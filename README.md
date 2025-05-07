@@ -6,18 +6,6 @@
 
 
 
-[twitter]: https://twitter.com/
-[youtube]: https://www.youtube.com/
-[instagram]: https://www.instagram.com/
-[linkedin]: https://linkedin.com/in/
-
-
-
-<h3 align="center">I'm a full-stack web developer with a passion for software architecture and programming best practices. Over the last 8 years, I've developed and maintained complex web apps using Laravel and Vue, always striving to write clean, efficient code. I also enjoy discussing and writing about coding practices. Currently, I'm studying data science to expand my skill set and apply data-driven insights to my projects. 
-</h3>
-
-
-
 
 ## Language and Tools
 
